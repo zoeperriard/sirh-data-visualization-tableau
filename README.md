@@ -11,7 +11,7 @@ L’objectif de cette analyse est simple mais essentiel : **comprendre pourquoi 
 L’analyse débute par une vue d’ensemble de la population globale (attrition *Yes* et *No*).
 
 ### Structure par âge et genre
-- La population est majoritairement concentrée entre **25 et 40 ans**, avec un pic autour de **30–35 ans**.
+- La population est majoritairement concentrée entre **25 et 40 ans**, avec un pic autour de **30 à 35 ans**.
 - L’entreprise apparaît donc **relativement jeune**, composée principalement de collaborateurs en milieu de carrière.
 - La pyramide des âges montre une **répartition équilibrée entre femmes et hommes**, sans déséquilibre marqué par genre.
 
@@ -105,5 +105,5 @@ C’est une étape essentielle pour mieux anticiper, mieux accompagner et constr
 
 ---
 
-📌 *Ce projet vise à donner une voix aux données pour éclairer des décisions humaines.*  
+*Ce projet vise à donner une voix aux données pour éclairer des décisions humaines.*  
 N’hésitez pas à explorer, questionner et prolonger cette analyse.
