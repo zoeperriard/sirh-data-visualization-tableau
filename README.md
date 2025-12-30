@@ -1,5 +1,3 @@
-# sirh-data-visualization-tableau
-HR analytics project using Tableau: analysis and visualization of employee attrition based on SIRH data.
 # Analyse de l’attrition des collaborateurs  
 *Comprendre les départs pour mieux agir*
 
